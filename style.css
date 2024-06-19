@@ -10,10 +10,7 @@ html {
   color: #ffffff;
   
   font-size: 50px;
-
-  
   display: flex;
-  position: fixed;
   align-items: center;
   justify-content: center;
   height: 100vh;
