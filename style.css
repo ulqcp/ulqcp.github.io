@@ -9,5 +9,6 @@ body {
   /*text-align: center;*/
   font-weight: 300;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1920px-Tsunami_by_hokusai_19th_century.jpg");
+  margin: auto;
 }
 
